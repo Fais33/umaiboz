@@ -24,6 +24,7 @@ sr7-nav-img canvas {
 }
 
 .sr7-arrows {
+    display: none !important;
     cursor: pointer;
     background: #000;
     background: rgba(0, 0, 0, .5);
@@ -58,6 +59,7 @@ sr7-nav-img canvas {
 .sr7-bullets,
 .sr7-tabs,
 .sr7-thumbs {
+    display: none !important;
     position: absolute;
     display: block;
     z-index: 1000;
