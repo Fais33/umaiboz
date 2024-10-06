@@ -141,6 +141,17 @@ sr7-layer[data-type=svg]>svg {
     height: 100%
 }
 
+#SR7_2_1-4-3 {
+    display: none !important;
+}
+
+#SR7_2_1-4-2 {
+    line-height: 50px !important;
+    font-size: 25px !important;
+    margin-left: -75px !important;
+}
+
+
 sr7-row-con {
     table-layout: fixed;
     font-size: 0;
