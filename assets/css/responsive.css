@@ -915,6 +915,12 @@
     }
 }
 
+@media (max-width:1070px) {
+    .sr7-layer {
+        background: none !important;
+    }
+}
+
 @media(min-width:961px) {
     .hide_on_notebook {
         display: none
