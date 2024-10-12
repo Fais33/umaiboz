@@ -915,9 +915,17 @@
     }
 }
 
-@media (max-width:1070px) {
-    .sr7-layer {
-        background: none !important;
+@media (max-width:800px) {
+    sr7-img {
+        width: 350px !important;
+        left: 65px !important;
+    }
+}
+
+@media (max-width:530px) {
+    sr7-img {
+        width: 350px !important;
+        left: 50px !important;
     }
 }
 
