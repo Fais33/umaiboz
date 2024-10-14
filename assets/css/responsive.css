@@ -924,8 +924,18 @@
 
 @media (max-width:530px) {
     sr7-img {
-        width: 350px !important;
-        left: 50px !important;
+        width: 189px !important;
+        left: 55px !important;
+        height: 157px !important;
+    }
+
+    sr7-mask>.sr7-layer {
+        font-size: 24px !important;
+        line-height: 30px !important;
+    }
+
+    .banner-small-text {
+        display: none !important;
     }
 }
 
