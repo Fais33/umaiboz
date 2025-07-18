@@ -287,3 +287,11 @@ sr7-fonttest-wrap {
     font-size: 20px;
     cursor: pointer
 }
+
+.sc_testimonials_slider .swiper-slide {
+    display: none;
+}
+
+.sc_testimonials_slider .swiper-slide.swiper-slide-active {
+    display: block;
+}
